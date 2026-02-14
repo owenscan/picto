@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import logo from "../../../assets/images/istan.png";
+import istan from "../../../assets/images/istan.png";
 import { Link } from "react-scroll";
 
 const navItems = [
@@ -90,7 +90,7 @@ const NavBar = () => {
             duration={900}
             className="flex items-center border-0 lg:max-xxl:ps-5"
           >
-            <img src={logo} className="h-8 sm:h-14 rounded-2xl" alt="logo" />
+            <img src={istan} className="h-8 sm:h-14 rounded-2xl" alt="logo" />
             <p className="text-2xl sm:text-[32px] my-auto ms-[12px] font-semibold">
               StanDesign
             </p>
