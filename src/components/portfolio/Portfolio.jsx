@@ -1,6 +1,6 @@
 import Projects from "./Projects";
 import card1 from "../..assets/images/portfolio-images/adomi.png";
-import card2 from "../../assets/images/portfolio-images/card-2.png";
+import card2 from "../../assets/images/portfolio-images/chrome_bDg5xIdhKM.png";
 import card3 from "../..assets/images/portfolio-images/railway.png";
 import card4 from "../../assets/images/portfolio-images/coinsure.png";
 import card5 from "../../assets/images/portfolio-images/stakd.png";
@@ -90,4 +90,5 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
 
