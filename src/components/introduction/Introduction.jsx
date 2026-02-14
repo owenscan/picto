@@ -1,4 +1,4 @@
-import person from "../../assets/images/stan.jpg";
+import stan from "../../assets/images/stan.jpg";
 import "./introduction.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
@@ -71,7 +71,7 @@ const Introduction = () => {
       >
         <img
           className={`shadow-2xl shadow-gray-200 w-full h-full absolute bottom-0 object-cover bg-white rounded-3xl`}
-          src={person}
+          src={stan}
           alt="person"
         />
       </div>
@@ -80,4 +80,5 @@ const Introduction = () => {
 };
 
 export default Introduction;
+
 
